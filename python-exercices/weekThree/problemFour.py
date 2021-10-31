@@ -17,3 +17,5 @@ while True:
     print("Your total basic pay per week is: " + str(totalBasicPay))
 
     print("")
+    
+    print("")
